@@ -2,7 +2,7 @@
 int main() 
 { 
  char chr; 
- printf("Enter a character: "); 
+ printf("Enter a character: ");
  scanf("%c", &chr); 
  // When %c is used, a character is displayed
  printf("You entered %c.\n",chr); 
